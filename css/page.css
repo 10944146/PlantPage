@@ -1,0 +1,51 @@
+*{
+    margin: 0%;
+    /* color:#E2F0D9; */
+    font-family: 'NSimSun';
+}
+header li{
+    margin: 0 10px;
+}
+body{
+    background-image: url( '../pictures/pbg.png');
+    background-repeat: none;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+img.me{
+    padding: 1.5%;
+}
+.myintro{
+    padding: 1.5%;
+    font-size: large;
+}
+#intro{
+    padding: 5% 0%;
+}
+.tti{
+    font-weight: 1300;
+}
+.range{
+    padding: 2%;
+    background-color: #f2f2f28e;
+}
+.plant{
+    box-shadow:  gray 2px 4px 4px;
+    float: left;
+}
+.right{
+    float: right;
+}
+.drc{
+    line-height: 36px;
+}
+.carousel-inner .item img { 
+    width :  100% ;  /* or width: 100% !important; */ 
+}
+.pla{
+    float: left;
+    /* padding-right: 20%; */
+    margin-left: -30%;
+}
