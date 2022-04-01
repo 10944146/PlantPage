@@ -31,9 +31,20 @@ img.me{
     padding: 2%;
     background-color: #f2f2f28e;
 }
+.ran{
+    background-color: #f2f2f28e;
+}
+.col-md-10{
+    margin-left: 8.5%;
+}
 .plant{
     box-shadow:  gray 2px 4px 4px;
     float: left;
+}
+.pla{
+    float: left;
+    /* padding-right: 20%; */
+    margin-left: -30%;
 }
 .right{
     float: right;
@@ -44,8 +55,11 @@ img.me{
 .carousel-inner .item img { 
     width :  100% ;  /* or width: 100% !important; */ 
 }
-.pla{
-    float: left;
-    /* padding-right: 20%; */
-    margin-left: -30%;
+.acc{
+    margin-bottom: 5%;
+}
+.accordion-button:not(.collapsed) {
+    color: #194100;
+    background-color: #E2F0D9;
+    box-shadow: inset 0 -1px 0 rgb(0 0 0 / 13%);
 }
