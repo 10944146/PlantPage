@@ -6,7 +6,7 @@ header li{
     margin: 0 10px;
 }
 body{
-    background-image: url( '../pictures/background.jpg');
+    background-image: url( '../pictures/pbg3.jpg');
     background-repeat: none;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -19,4 +19,14 @@ img.bn{
 .row>*{
     padding: 0% 0%;
 }
-
+#three{
+    padding: 5%;
+}
+.what{
+    margin: 10%;
+    color: white;
+    text-align: center;
+}
+.vid{
+    text-align: right;    
+}
